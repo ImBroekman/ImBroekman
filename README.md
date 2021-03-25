@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sven A.K.A. @ImBroekman
 - 👀 I’m interested in Web Development
-- 📫 How to reach me: aircode.nl
 
 <!---
 ImBroekman/ImBroekman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
